@@ -1,2 +1,2 @@
-# better-flag
+# better_flag
 Better flag
