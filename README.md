@@ -1,0 +1,2 @@
+# better-flag
+Better flag
